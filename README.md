@@ -3,6 +3,9 @@
 
 <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif">
 
+
+<p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. </p>
+
 ## Neler Biliyorum
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -11,6 +14,8 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br>
 
 ## En Son Yazılarım
 
