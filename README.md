@@ -1,10 +1,10 @@
-# Merhabalar Ben Furkan 👋
+# Merhabalar Ben Furkan 👋 Hoşgeldinn
 
 
 <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif">
 
 
-##En Son Yazılarım
+## En Son Yazılarım
 
 - [Chainlink Nedir? Chanlink Kurucusu Kimdir? Chainlink Amacı Nedir?](https://www.teknokanyon.com/chainlink-nedir.html)
 - [NFT Nedir? Blockchain Sistemi ve NFT](https://www.teknokanyon.com/nft-nedir.html)
