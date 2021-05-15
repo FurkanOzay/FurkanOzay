@@ -1,11 +1,16 @@
 # Merhabalar Ben Furkan 👋 Hoşgeldinn
 
+<br><br>
 
 <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif">
+
+<br><br>
 
 ## Hakkımda 
 
 <p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. </p>
+
+<br><br>
 
 ## İletişim
 
@@ -13,6 +18,8 @@
 [<img align="left" alt="Furkan Özay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Furkan Özay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Furkan Özay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br><br>
 
 ## Neler Biliyorum
 
@@ -23,7 +30,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br>
+<br><br>
 
 ## En Son Yazılarım
 
