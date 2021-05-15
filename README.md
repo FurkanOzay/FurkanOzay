@@ -3,8 +3,16 @@
 
 <img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif">
 
+## Hakkımda 
 
 <p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. </p>
+
+## İletişim
+
+[<img align="left" alt="furkanozay.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Furkan Özay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Furkan Özay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Furkan Özay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## Neler Biliyorum
 
@@ -25,3 +33,8 @@
 - [Javascirp Date() Nesnesi](https://www.teknokanyon.com/javascript-date-nesnesi.html)
 - [Mutlu Çocuk, Hasta Adam](https://mirrkett.blogspot.com/2021/05/mutlu-cocuk-hasta-adam.html)
 
+
+[website]: https://furkanozay.me/
+[twitter]: https://twitter.com/poineandlimos
+[instagram]: https://www.instagram.com/furkanozayy/
+[linkedin]: https://www.linkedin.com/in/furkan-%C3%B6zay-69a687149/
