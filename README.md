@@ -6,9 +6,9 @@
 
 <br><br>
 
-## Hakkımda 
+## Ben Kimim ? 
 
-<p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. </p>
+<p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. Ben Web Teknolojileri ile ilgilenen ve ufak ufak projeler geliştirmeye çalışan Jr.Frontend Developer'ım </p>
 
 <br><br>
 
