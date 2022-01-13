@@ -2,17 +2,11 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qQh0DBncuFJwQ/giphy.gif">
+## Hi. Welcome to my code repository.
 
 <br><br>
 
-## Ben Kimim ? 
-
-<p>Meerhabalar ben Furkan. Buralar yakında projelerle dolacak. Ancak henüz yolun başlarındayım. Takipleşerek birbirimize neden yardımcı olmuyoruz.Sizlerle gelişimimi paylaşmaktan mutluluk duymaktayım. Ben Web Teknolojileri ile ilgilenen ve ufak ufak projeler geliştirmeye çalışan Jr.Frontend Developer'ım </p>
-
-<br><br>
-
-## İletişim
+## Contact Me!
 
 [<img align="left" alt="furkanozay.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Furkan Özay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,7 +27,7 @@
 
 <br><br>
 
-## En Son Yazılarım
+## My Recent Post
 
 - [Şimdilik ABD ve Kanada’da: Meta Horizon Worlds Kullanıma Sunuldu.](https://www.teknokanyon.com/simdilik-abd-ve-kanadada-meta-horizon-worlds-kullanima-sunuldu/)
 - [Paribu Box Nedir? Paribu Box İle Hangi İşlemler Yapılabilecek?](https://www.teknokanyon.com/paribu-box-nedir/)
