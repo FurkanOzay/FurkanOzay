@@ -1,10 +1,7 @@
-# Merhabalar Ben Furkan 👋 Hoşgeldinn
+# Hi. 👋 Welcome to my code repository. 
 
 <br><br>
 
-## Hi. Welcome to my code repository.
-
-<br><br>
 
 ## Contact Me!
 
